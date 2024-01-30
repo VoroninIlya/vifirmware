@@ -1,0 +1,8 @@
+add_subdirectory(AZURE_RTOS)
+add_subdirectory(Core)
+add_subdirectory(Drivers)
+add_subdirectory(FileX)
+add_subdirectory(LevelX)
+add_subdirectory(Middlewares)
+add_subdirectory(TouchGFX)
+add_subdirectory(USBX)
